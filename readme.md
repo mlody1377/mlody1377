@@ -9,4 +9,5 @@
 
 ---
 Projects:
-[projekt]
+>All private xd
+Readme: ![projekt](https://github.com/mlody1377/mlody1377)
